@@ -111,7 +111,7 @@ spring.resources.add-mappings=false
 
 浏览器设置处理
 
-![salafrai如何处理跨域请求](/Users/zelinzhang/Desktop/秒杀项目性能与设置截图/salafrai如何处理跨域请求.png)
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/salafrai cookie.png">
 
 
 
