@@ -2,28 +2,23 @@
 
 #### 注册
 
-<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/register.png">
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/register.png" style="width:300px;height:auto" align="middle">
 
 
 #### 验证码验证页面
-<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/verification.png">
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/verification.png" style="width:300px;height:auto" align="middle">
 
 
 
 #### 用户登陆界面
 
-<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/login.png">
-
-
-#### 商品列表页面
-
-<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/itemList.png">
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/login.png" style="width:300px;height:auto" align="middle">
 
 
 
 #### 下单页面
 
-<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/createOrder.png">
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/createOrder.png" style="width:300px;height:auto" align="middle">
 
 
 
@@ -37,7 +32,7 @@ Model层用于集合DAO层的数据
 
 VO层用于前端展示给用户看的信息
 
-<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/system structure.png">
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/system structure.png" >
 
 
 
