@@ -2,31 +2,28 @@
 
 #### 注册
 
-![注册界面](/Users/zelinzhang/Desktop/秒杀项目性能与设置截图/注册界面.png)
-
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/register.png">
 
 
 #### 验证码验证页面
-
-![手机号验证码界面](/Users/zelinzhang/Desktop/秒杀项目性能与设置截图/手机号验证码界面.png)
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/verification.png">
 
 
 
 #### 用户登陆界面
 
-![用户登陆界面](/Users/zelinzhang/Desktop/秒杀项目性能与设置截图/用户登陆界面.png)
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/login.png">
 
-#### 
 
 #### 商品列表页面
 
-![商品列表页面](/Users/zelinzhang/Desktop/秒杀项目性能与设置截图/商品列表页面.png)
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/itemList.png">
 
 
 
 #### 下单页面
 
-![下单页面](/Users/zelinzhang/Desktop/秒杀项目性能与设置截图/下单页面.png)
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/createOrder.png">
 
 
 
@@ -40,7 +37,7 @@ Model层用于集合DAO层的数据
 
 VO层用于前端展示给用户看的信息
 
-![项目结构图](/Users/zelinzhang/Desktop/秒杀项目性能与设置截图/项目结构图.png)
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/system structure.png">
 
 
 
@@ -562,7 +559,9 @@ server{
 
 ##### 优化前：
 
-![单机环境下测试](/Users/zelinzhang/Desktop/秒杀项目性能与设置截图/单机环境下测试.png)
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/before.png">
 
-##### 优化后![交易验证优化](/Users/zelinzhang/Desktop/秒杀项目性能与设置截图/交易验证优化.png)
+##### 优化后
+<img src="https://github.com/InnovateLin/SeckillPromoService/blob/master/picture/after.png">
+
 
